@@ -71,7 +71,7 @@ func Build(ctx context.Context) {
 ```
 
 ```plain
-$ mage -l
+$ mage -2
 A comment on the package will be output when you list the targets of a
 magefile.
 
